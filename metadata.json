@@ -1,0 +1,7 @@
+{
+  "name": "DeepFraud",
+  "description": "Enterprise-grade real-time AI fraud and deepfake detection platform featuring multimodal analysis, risk scoring, and live monitoring dashboards.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
